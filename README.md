@@ -1,7 +1,7 @@
 ## Olá! Me chamo Alexandre Oliveira
 
 - 🔭 Atualmente procuro pelo meu primeiro estágio como Dev Back-End
-- 📖 Cursando Análise e Desenvilvimentos de Sistemas
+- 📖 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando C#
 
 <div>
