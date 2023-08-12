@@ -21,6 +21,4 @@
   <a href="mailto:ao.sanches.ao@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alex_o.sanches/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/AlexandreOliveiraSanches/AlexandreOliveiraSanches/blob/output/github-contribution-grid-snake.svg)
           
