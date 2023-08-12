@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente procuro pelo meu primeiro estágio
 - 🌱 Estudando C#
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/AlexandreOliveiraSanches">
