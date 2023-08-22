@@ -4,7 +4,7 @@
 - 🌱 Estudando C#
 
 <div>
-   <a href="github.com/AlexandreOliveiraSanches">
+   <a href="https://github.com/AlexandreOliveiraSanches">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreOliveiraSanches&show_icons=true&theme=dark" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOliveiraSanches&layout=compact&langs_count=16&theme=dark"/>
    </a>
@@ -13,7 +13,7 @@
 
  <div  align="center">
   <div style="display: inline_block"><br>
-    <a href="github.com/AlexandreOliveiraSanches"><img align="left" height="250" alt="coding-time" src="https://github.com/LuigiGf/LuigiGf/raw/main/code.gif"></a>
+    <a href="https://github.com/AlexandreOliveiraSanches"><img align="left" height="250" alt="coding-time" src="https://github.com/LuigiGf/LuigiGf/raw/main/code.gif"></a>
     <h1 align="center">Tecnologias </h1>
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
