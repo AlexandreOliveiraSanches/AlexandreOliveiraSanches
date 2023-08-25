@@ -13,7 +13,7 @@
 
  <div  align="center">
   <div style="display: inline_block"><br>
-    <a href="https://github.com/AlexandreOliveiraSanches"><img align="left" height="250" alt="coding-time" src="https://github.com/LuigiGf/LuigiGf/raw/main/code.gif"></a>
+    <a href="https://github.com/AlexandreOliveiraSanches"><img align="left" height="250" alt="coding-time" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></a>
     <h1 align="center">Tecnologias </h1>
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
