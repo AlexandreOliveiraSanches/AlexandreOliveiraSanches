@@ -6,7 +6,7 @@
 <div>
    <a href="https://github.com/AlexandreOliveiraSanches">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreOliveiraSanches&show_icons=true&theme=dracula" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOliveiraSanches&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOliveiraSanches&layout=compact&langs_count=17&theme=dracula"/>
    </a>
 </div>
 
