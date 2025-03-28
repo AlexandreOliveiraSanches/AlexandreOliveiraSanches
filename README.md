@@ -1,7 +1,6 @@
 ## Olá! Me chamo Alexandre Oliveira
 
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando C#
 
 <div>
    <a href="https://github.com/AlexandreOliveiraSanches">
